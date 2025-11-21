@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: backendConsultaIP
+
+  profiles:
+    active: local
+
+server:
+  port: 8080
+
+jackson:
+  serialization:
+    indent_output: true
