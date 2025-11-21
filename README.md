@@ -51,6 +51,8 @@ Lo primero que hice fue:
 - Leer su documentación.
 - Probar las llamadas a la API con Postman.
 
+<img src="postmantest.png" width="250">
+
 Al intentar probarla, descubrí que para poder usar muchas funciones, herramientas de test y endpoints, tenía que pagar una suscripción, y el plan gratuito realmente no permitía lo que necesitaba para este proyecto.
 
 Por esa razón investigué alternativas y encontré una API pública gratuita de geolocalización y análisis de IPs que sí permitía hacer todas las pruebas necesarias, sin restricciones, y que me daba exactamente los datos que necesitaba.
