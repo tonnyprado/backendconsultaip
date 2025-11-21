@@ -24,9 +24,13 @@ Antes de escribir código, decidí organizar el proyecto de forma visual.
     - Qué datos iba a mostrar.
     - Qué stack iba a usar.
     - La query para crear el usuario y contraseña en mi base de datos local (ip_user / ip_password).
+   
+    <img src="IMG_2145.jpg" width="150">
 
 2. **Diseño simple en Figma**  
    Después hice un diseño muy sencillo en Figma para visualizar mejor la interfaz.
+
+   <img src="uidesign.png" width="150">
 
 3. **Diagrama de flujo**  
    Luego hice un diagrama de flujo para entender el recorrido completo:
@@ -34,7 +38,8 @@ Antes de escribir código, decidí organizar el proyecto de forma visual.
     - El backend revisa si ya existe en la base.
     - Si no existe, consulto la API externa.
     - Guardo los datos y devuelvo la respuesta al frontend.
-
+  
+   <img src="flowdiagram.jpg" width="250">
 ---
 
 ## 3. API externa: pruebas y decisión final
